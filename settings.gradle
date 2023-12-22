@@ -1,0 +1,10 @@
+include ':servcie'
+include ':home'
+include ':study'
+include ':login'
+include ':course'
+include ':common'
+include ':mine'
+include ':app'
+rootProject.name = "cainiaowo_xqx"
+include ':netdemo'
